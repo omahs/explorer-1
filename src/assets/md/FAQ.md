@@ -35,4 +35,4 @@ To provide liquidity, click on the `Liquidity` page, and follow three simple ste
 
 Importantly, don’t forget that **all** orders placed by an Ethereum address share the same deposited liquidity! Consider participating with separate addresses for separate strategies when partaking in the liquidity provision and when trading normally.
 
-Learn more about liquidity provision on [this section](https://docs.gnosis.io/protocol/docs/liquidity1/) of the the Gnosis Developer Portal.
+Learn more about liquidity provision on [this section](https://docs.gnosis.io/protocol/docs/liquidity1/) of the Gnosis Developer Portal.
